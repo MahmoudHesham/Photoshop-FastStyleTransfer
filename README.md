@@ -16,10 +16,12 @@ Based on the fast style transfer repository the machine learning solution requir
 # Installation
 ![Photoshop Menu](Photoshop_menu.jpg?raw=true)
 * After fulfilling the requirements all what you need is just to copy the **Presets** folder inside your photoshop root directory and accept the overwriting.
+* Download the available models provided by the fast-style-transfer author from here https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ
+* copy the downloaded models **.ckpt files** inside the models folder as following **"Presets/Scripts/StyleTransfer/models/"**.
 * Restart your photoshop if you have a running session already.
 * Run the script from `File > Scripts > [3Deep] StyleTransfer`.
 * Choose your favorite style from the avaliable styles.
-* To expand your collections of styles please check the fast-style-transfer repoistory for how to train a new model instructions.
+* To expand your collection of styles please check the fast-style-transfer repoistory for how to train a new model instructions.
 
 # Links
 * cuDNN | https://developer.nvidia.com/cudnn
