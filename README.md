@@ -1,7 +1,7 @@
 # Photoshop Fast Style Transfer Using Machine Learning :art:
 <p align="center"><b>A user-friendly tool to use fast-style-transfer for stylizing images directly inside Photoshop.</b></p>
 
-![Photoshop Menu](Photoshop_fast_style_transfer.jpg?raw=true)
+![Photoshop Menu](Photoshop_fast_style_transfer_updated.jpg?raw=true)
 
 # Requirements
 Based on the fast style transfer repository the machine learning solution requires tensorflow, Pillow, numpy and scipy to be installed on your python environment.
