@@ -31,7 +31,7 @@ Based on the fast style transfer repository the machine learning solution requir
 
 # Authors
 * Photoshop tool (.jsx and .py) [3deep.org](https://www.3deep.org) | author [Mahmoud Hesham](https://github.com/MahmoudHesham).
-* Super Resolution Repository ["Fast Style Transfer in TensorFlow"](https://github.com/lengstrom/fast-style-transfer) | author [lengstrom](https://github.com/lengstrom). 
+* Fast Style Transfer Repository ["Fast Style Transfer in TensorFlow"](https://github.com/lengstrom/fast-style-transfer) | author [lengstrom](https://github.com/lengstrom). 
 
 # License
 * All the scripts/tools/software-bridges developed by 3Deep are free for academic and non-commercial use only.
