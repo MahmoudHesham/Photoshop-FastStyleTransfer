@@ -1,6 +1,7 @@
 # Photoshop Fast Style Transfer Using Machine Learning :art:
 <p align="center"><b>A user-friendly tool to use fast-style-transfer for stylizing images directly inside Photoshop.</b></p>
 
+![Photoshop Menu](Photoshop_fast_style_transfer.gif?raw=true)
 ![Photoshop Menu](Photoshop_fast_style_transfer_updated.jpg?raw=true)
 
 # Requirements
@@ -15,6 +16,7 @@ Based on the fast style transfer repository the machine learning solution requir
 
 # Installation
 ![Photoshop Menu](Photoshop_menu.jpg?raw=true)
+![Photoshop Menu](Photoshop_styles_menu.jpg?raw=true)
 * After fulfilling the requirements all what you need is just to copy the **Presets** folder inside your photoshop root directory and accept the overwriting.
 * Download the available models provided by the fast-style-transfer author from here https://drive.google.com/drive/folders/0B9jhaT37ydSyRk9UX0wwX3BpMzQ
 * copy the downloaded models **.ckpt files** inside the models folder as following **"Presets/Scripts/StyleTransfer/models/"**.
